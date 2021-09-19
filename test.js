@@ -1,1 +1,1 @@
-alert("Hola Mundo Editado");
+alert("JC RULES!");
